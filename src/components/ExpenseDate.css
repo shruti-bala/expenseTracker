@@ -1,0 +1,30 @@
+.main_body{
+    border: 1px solid white;
+    height: 80px;
+    width: 75px;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    background-color: rgb(43, 43, 43);
+    /* border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5); */
+
+}
+.expense__date{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    font: 20px;
+}   
+.expense__month{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+    padding-top: 3px;
+
+}
+.expense__year{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    padding-top: 5px;
+}
